@@ -5,6 +5,7 @@
 @rem
 @rem ##########################################################################
 
+set JAVA_HOME=I:\DOWNLOADS\jdk-14.0.2_windows-x64_bin.exe
 @rem Set local scope for the variables with windows NT shell
 if "%OS%"=="Windows_NT" setlocal
 
